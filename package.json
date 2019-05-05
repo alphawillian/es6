@@ -4,7 +4,8 @@
   "description": "学习es6语法",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:4": "parcel ./4/index.html -p 81"
   },
   "repository": {
     "type": "git",
